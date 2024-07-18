@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sub-heading {
+  @apply text-zinc-500 text-[10px] uppercase;
+}
+
+.form-label {
+  @apply block text-white text-xs;
+}
+
+.form-field {
+  @apply bg-transparent text-xs border-[1px] px-2 py-4 rounded-lg border-zinc-400 my-3 w-full outline-none hover:border-purple-500 text-white focus:border-purple-500;
+}
