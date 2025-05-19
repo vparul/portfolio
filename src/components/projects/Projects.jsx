@@ -4,6 +4,12 @@ import Heading from "../heading/Heading";
 const Projects = ({ itemRef }) => {
   const projectList = [
     {
+      name: "EnterpriseCore",
+      img: "assets/images/enterprisecore.jpeg",
+      link: "https://enterprisecore.io/",
+      description: "Build Intelligent, Automated, and Self-Assembling Enterprises of the Future."
+    },
+    {
       name: "Sun King",
       img: "assets/images/sunking.png",
       link: "https://sunking.com/",

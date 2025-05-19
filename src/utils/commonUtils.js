@@ -1,4 +1,4 @@
-export const resumeLink = "https://drive.google.com/file/d/1GtT2khjBGcxlWbEPx4Nztfv5tJaMbJzm/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1oIVSxqIOyCsgTlNdXqFNJh0mtdNL3xlI/view?usp=sharing";
 export const navBarItems = [
   {
     label: "Home",
